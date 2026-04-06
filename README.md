@@ -1,8 +1,8 @@
 ## Hi, I'm Jerome👋
 
-🎓 Bachelor of Computer Science Majoring Artificial Intelligence — Swinburne University of Technology
-🤖 Passionate about Machine Learning, Deep Learning, and AI Systems
-📍 Melbourne, Australia
+- 🎓 Bachelor of Computer Science Majoring Artificial Intelligence — Swinburne University of Technology
+- 🤖 Passionate about Machine Learning, Deep Learning, and AI Systems
+- 📍 Melbourne, Australia
 
 <!--
 **jeromeliao03/jeromeliao03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
