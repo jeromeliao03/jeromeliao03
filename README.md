@@ -10,33 +10,16 @@
 - Intrested in MAchine Learning, Computer Vision and Prediction Models
 - Building AI systems for hazard detection, electricity demand forecasting and facial recognition projects
 
-##🧠 Tech Stack
-### Languages 
-- Python
-- JavaScript
-- HTML & CSS
+## 🧠 Tech Stack
 
-### AI/ Machine Learning 
-- TensorFlow / Keras
-- Scikit-learn
-- GRU / LSTM
-- CNN
+| Category                  | Technologies                                         |
+| ------------------------- | ---------------------------------------------------- |
+| **Languages**             | Python, JavaScript, SQL                              |
+| **AI / Machine Learning** | TensorFlow, Keras, Scikit-learn, GRU, LSTM, CNN, SVM |
+| **Data Science**          | Pandas, NumPy, Matplotlib, Seaborn                   |
+| **Web / Deployment**      | React, FastAPI, Streamlit                            |
+| **Tools**                 | Git, GitHub, VS Code, Jupyter Notebook, KNIME        |
 
-### Data Science 
-- Pandas
-- NumPy
-- Matplotib
-- Seaborn
-
-### Web / Deployment 
-- React
-- FastAPI
-- Streamlit
-
-### Tools 
-- Git & GitHub
-- VS Code
-- Jupyter Notebook
 <!--
 **jeromeliao03/jeromeliao03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
