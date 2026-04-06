@@ -4,6 +4,14 @@
 - 🤖 Passionate about Machine Learning, Deep Learning, and AI Systems
 - 📍 Melbourne, Australia
 
+## About Me
+
+- AI major focused on real-world intelligent systems
+- Intrested in MAchine Learning, Computer Vision and Prediction Models
+- Building AI systems for hazard detection, electricity demand forecasting and facial recognition projects
+
+##🧠 Tech Stack
+
 <!--
 **jeromeliao03/jeromeliao03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
