@@ -25,6 +25,21 @@
 - Hazard Detection for Side Loading Garbage Trucks using Computer vision
 - Full Stack Weather Forecasting Web app using Logistic Regression Model
 
+## 🔭 Currently Working On 
+- Predictive Power Consumption Tool
+- Facial Regonition With Emotion and Liveness
+- AI Scheduler 
+
+## 🌱 Currently Learning
+- Deep Learning Optimizations
+- MLOps Fundamentals
+- Model Deployment
+- AI system Design
+
+📫 Contact Me
+Linkedin: www.linkedin.com/in/jerome-liao-73bba31b5
+Email: jerome.liao2003@gmail.com
+
 
 <!--
 **jeromeliao03/jeromeliao03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
