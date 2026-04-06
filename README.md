@@ -21,7 +21,7 @@
 | **Tools**                 | 🧰 Git, 🐱 GitHub, 📝 VS Code, 📓 Jupyter Notebook, 🔧 KNIME                |
 
 
-##🔥 Featured Projects
+## 🔥 Featured Projects
 - Hazard Detection for Side Loading Garbage Trucks using Computer vision
 - Full Stack Weather Forecasting Web app using Logistic Regression Model
 
