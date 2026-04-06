@@ -37,8 +37,8 @@
 - AI system Design
 
 📫 Contact Me
-Linkedin: www.linkedin.com/in/jerome-liao-73bba31b5
-Email: jerome.liao2003@gmail.com
+- Linkedin: www.linkedin.com/in/jerome-liao-73bba31b5
+- Email: jerome.liao2003@gmail.com
 
 
 <!--
