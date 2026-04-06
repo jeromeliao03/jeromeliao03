@@ -12,8 +12,6 @@
 
 ## 🧠 Tech Stack
 
-## 🧠 Tech Stack
-
 | Category                  | Technologies                                                                |
 | ------------------------- | --------------------------------------------------------------------------- |
 | **Languages**             | 🐍 Python, ⚡ JavaScript, 🗄️ SQL                                            |
@@ -21,6 +19,11 @@
 | **Data Science**          | 📊 Pandas, 🔢 NumPy, 📈 Matplotlib,Seaborn                              |
 | **Web / Deployment**      | ⚛️ React, 🚀 FastAPI, 🖥️ Streamlit                                         |
 | **Tools**                 | 🧰 Git, 🐱 GitHub, 📝 VS Code, 📓 Jupyter Notebook, 🔧 KNIME                |
+
+
+##🔥 Featured Projects
+- Hazard Detection for Side Loading Garbage Trucks using Computer vision
+- Full Stack Weather Forecasting Web app using Logistic Regression Model
 
 
 <!--
