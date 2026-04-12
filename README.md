@@ -24,11 +24,12 @@
 ## 🔥 Featured Projects
 - Hazard Detection for Side Loading Garbage Trucks using Computer vision
 - Full Stack Weather Forecasting Web app using Logistic Regression Model
+- AI Scheduler 
+
 
 ## 🔭 Currently Working On 
 - Predictive Power Consumption Tool
 - Facial Regonition With Emotion and Liveness
-- AI Scheduler 
 
 ## 🌱 Currently Learning
 - Deep Learning Optimizations
