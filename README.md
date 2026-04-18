@@ -14,7 +14,7 @@
 
 | Category                  | Technologies                                                                |
 | ------------------------- | --------------------------------------------------------------------------- |
-| **Languages**             | 🐍 Python, ⚡ JavaScript, 🗄️ SQL                                            |
+| **Languages**             | 🐍 Python, ⚡ JavaScript,                                          |
 | **AI / Machine Learning** | 🤖 TensorFlow, 🤖 Keras, 📊 Scikit-learn, 🔁 GRU, 🔁 LSTM, 🖼️ CNN, 🛡️ SVM |
 | **Data Science**          | 📊 Pandas, 🔢 NumPy, 📈 Matplotlib,Seaborn                              |
 | **Web / Deployment**      | ⚛️ React, 🚀 FastAPI, 🖥️ Streamlit                                         |
