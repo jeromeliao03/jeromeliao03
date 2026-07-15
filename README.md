@@ -22,14 +22,15 @@
 
 
 ## 🔥 Featured Projects
-- Hazard Detection for Side Loading Garbage Trucks using Computer vision
+- Hazard Detection for Side Loading Garbage Trucks using Computer Vision
 - Full Stack Weather Forecasting Web app using Logistic Regression Model
+- AI Facial Recognition Attendance System
 - AI Scheduler 
 
 
 ## 🔭 Currently Working On 
 - Predictive Power Consumption Tool
-- Facial Regonition With Emotion and Liveness
+- Facial Recognition With Emotion and Liveness
 
 ## 🌱 Currently Learning
 - Deep Learning Optimizations
